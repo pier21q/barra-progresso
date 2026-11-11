@@ -1,0 +1,6 @@
+{
+  "name": "barra-progresso",
+  "description": "Barra di avanzamento con la mascotte di Claude sopra il prompt di Claude Code",
+  "owner": { "name": "pier21q" },
+  "plugins": [{ "name": "barra-progresso", "source": "./" }]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "barra-progresso",
+  "version": "0.1.0",
+  "description": "Rotellina e barra di avanzamento sopra il prompt che partono da sole a ogni messaggio",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "pier21q"
+  }
+}
